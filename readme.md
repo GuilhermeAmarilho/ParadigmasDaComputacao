@@ -18,13 +18,13 @@
 - [Conteúdo](https://github.com/GuilhermeAmarilho/ParadigmasDaComputacao/blob/master/Aula03-LinguagensdePrograma%C3%A7%C3%A3o%20-%20Copia/Paradigmas_-_Aula_03.pdf)
 
 #### Classificação das Linguagens de Programação
-- [Conteúdo]https://github.com/GuilhermeAmarilho/ParadigmasDaComputacao/blob/master/Aula04-Classifica%C3%A7%C3%A3odasLPsemGera%C3%A7%C3%B5es/Paradigmas_-_Aula_04.pdf)
+- [Conteúdo](https://github.com/GuilhermeAmarilho/ParadigmasDaComputacao/blob/master/Aula04-Classifica%C3%A7%C3%A3odasLPsemGera%C3%A7%C3%B5es/Paradigmas_-_Aula_04.pdf)
 
 #### Linguagens, Tecnologias e Softwares
-- [Conteúdo](file:///C:/Users/guilherme/Downloads/ParadigmasDaComputa%C3%A7%C3%A3o/Aula05-LinguagensTecnologiasSoftwares/Paradigmas_-_Aula_05.pdf)
+- [Conteúdo](https://github.com/GuilhermeAmarilho/ParadigmasDaComputacao/blob/master/Aula05-LinguagensTecnologiasSoftwares/Paradigmas_-_Aula_05.pdf)
 
 #### Projeto 1 - Parabocha;
-- [Descritivo e Projeto](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2010%20-%20Projeto%20MVC)
+- [Descritivo](https://github.com/GuilhermeAmarilho/ParadigmasDaComputacao/blob/master/Aula06-Projeto1/Descritivo.pdf)
 - [Base de dados](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2010%20-%20Projeto%20MVC/getStart/SQL-Script.sql)
 - [Application](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2010%20-%20Projeto%20MVC/Application)
 - [Public](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2010%20-%20Projeto%20MVC/public)
