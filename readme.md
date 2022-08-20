@@ -1,4 +1,4 @@
-# <h1 align="center"> Paradigmas da Computação </h1>
+<h1 align="center"> Paradigmas da Computação </h1>
 
 > <p align="justify"> Nesta cadeira foi ensinada a visão comparativa de paradigmas de programação, os problemas tratáveis pelos paradigmas, as definição e caracterização dos principais paradigmas declarativos e imperativos. </p>
 
@@ -11,27 +11,19 @@
 ## Atividades
 - Projetos feitos durante o 3º semestre de Ciências da Computação.
 
-#### Base PHP:
-- [Código simples](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2002%20-%20Aprendendo%20PHP/index.php)
-- [Combustivel](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2002%20-%20Aprendendo%20PHP/Lista%20de%20exercicios%20-%20Terminal/combustivel.php)
+#### Contextualização
+- [Conteúdo](https://github.com/GuilhermeAmarilho/ParadigmasDaComputacao/blob/master/Aula02-Hist%C3%B3ricoeMotiva%C3%A7%C3%A3o/Paradigmas_-_Aula_02.pdf)
 
-#### Protocolo HTTP
-- [Problemática](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2005%20-%20)
-- [Calculadora](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2003%20-%20Protocolo%20HTTP/Exercicio-calculadora/index.php)
+#### Aspectos das Linguagens de Programação
+- [Conteúdo](https://github.com/GuilhermeAmarilho/ParadigmasDaComputacao/blob/master/Aula03-LinguagensdePrograma%C3%A7%C3%A3o%20-%20Copia/Paradigmas_-_Aula_03.pdf)
 
-#### Exercício prático 1 - Cookie e Session
-- [Controller](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2005%20-%20Cookies%20e%20sess%C3%B5es/controller/controlador.php)
-- [Cadastro](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2005%20-%20Cookies%20e%20sess%C3%B5es/controller/cadastro.php)
-- [Index](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2005%20-%20Cookies%20e%20sess%C3%B5es/index.php)
+#### Classificação das Linguagens de Programação
+- [Conteúdo]https://github.com/GuilhermeAmarilho/ParadigmasDaComputacao/blob/master/Aula04-Classifica%C3%A7%C3%A3odasLPsemGera%C3%A7%C3%B5es/Paradigmas_-_Aula_04.pdf)
 
-#### Exercício prático 2 - Cookies e Sessions 
-- [Problemática](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2007%20-%20Marketplace/getStart/Enunciado.txt)
-- [Index](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2007%20-%20Marketplace/index.php)
-- [Controller](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2007%20-%20Marketplace/controller)
-- [Model](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2007%20-%20Marketplace/model)
-- [View](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2007%20-%20Marketplace/view)
+#### Linguagens, Tecnologias e Softwares
+- [Conteúdo](file:///C:/Users/guilherme/Downloads/ParadigmasDaComputa%C3%A7%C3%A3o/Aula05-LinguagensTecnologiasSoftwares/Paradigmas_-_Aula_05.pdf)
 
-#### Exercício prático 3 - Padrão MVC 
+#### Projeto 1 - Parabocha;
 - [Descritivo e Projeto](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2010%20-%20Projeto%20MVC)
 - [Base de dados](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2010%20-%20Projeto%20MVC/getStart/SQL-Script.sql)
 - [Application](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2010%20-%20Projeto%20MVC/Application)
