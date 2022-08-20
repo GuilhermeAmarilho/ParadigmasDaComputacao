@@ -1,4 +1,4 @@
-<h1 align="center"> Paradigmas da Computação </h1>
+# <h1 align="center"> Paradigmas da Computação </h1>
 
 > <p align="justify"> Nesta cadeira foi ensinada a visão comparativa de paradigmas de programação, os problemas tratáveis pelos paradigmas, as definição e caracterização dos principais paradigmas declarativos e imperativos. </p>
 
